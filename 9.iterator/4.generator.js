@@ -1,3 +1,4 @@
+// Generator를 사용하면 좀 더 쉽게 구현할 수 있다! Generator는 function* 키워드를 사용한다.
 // const multiple = {
 //   [Symbol.iterator]() {
 //     let i = 0;
